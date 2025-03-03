@@ -27,7 +27,7 @@ class Firebase {
       if (userCredential != null) {
         bool isEmailExistRes =
             await isEmailExist(email: userCredential.user!.email!);
-        if (isEmailExistRes) {
+        if (!isEmailExistRes) {
           await addUser(
             displayName: userCredential.user!.displayName ?? '',
             email: userCredential.user!.email ?? '',
