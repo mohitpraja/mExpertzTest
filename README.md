@@ -18,12 +18,10 @@
 
 ## APK Demo
 
-<div>
-<video src="document/screenshots/app_demo.mp4" alt="Image Alt Text" style="width: 25%; height: 25%; margin-bottom: 20px;">
-</div>
+https://github.com/mohitpraja/mExpertzTest/blob/main/document/app_demo.mp4
 
 
 ## Apk File
 
-Download Apk - https://github.com/mohitpraja/SiyaTest/blob/main/document/SiyaNews.apk
+Download Apk - https://github.com/mohitpraja/mExpertzTest/blob/main/document/LuxeLoft.apk
 
