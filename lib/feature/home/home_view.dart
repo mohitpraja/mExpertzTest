@@ -45,6 +45,7 @@ class HomeView extends GetView<HomeController> {
           IconButton(
             onPressed: () async {
               Loader().loader();
+              appPrefs.hiveDb.clear();
               await GoogleSignIn().signOut();
               Get.back();
               Get.offAllNamed(Routes.login);
