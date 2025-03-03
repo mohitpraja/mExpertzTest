@@ -18,7 +18,7 @@
 
 ## APK Demo
 
-https://github.com/mohitpraja/mExpertzTest/blob/main/document/app_demo.mp4
+https://githubusercontent.com/mohitpraja/mExpertzTest/blob/main/document/app_demo.mp4
 
 
 ## Apk File
