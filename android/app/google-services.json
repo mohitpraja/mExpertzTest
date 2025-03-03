@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528746242925",
+    "project_id": "mexpertztest",
+    "storage_bucket": "mexpertztest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528746242925:android:edc8f18962dd18deeef064",
+        "android_client_info": {
+          "package_name": "com.example.mexpertztest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7-NgzXntzjAYc1OtdZm0bqW8nRr9p1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
